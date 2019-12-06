@@ -21,7 +21,7 @@
     // Display the HTML in the page
     $intro = '
         <p>
-            Visit the <a href="https://unco-bacs.org/bacs350">Seaman\'s Brain</a>
+            Visit the <a href="https://davidthompson.site/bacs350">Thompson\'s Brain</a>
         </p>
          
     ';

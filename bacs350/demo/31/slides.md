@@ -1,8 +1,8 @@
 Building Your App
 
 * Step-by-step application development
-* Friday, Nov 16, 2018
-* by Mark Seaman
+* Wednesday, Nov 6, 2019
+* by David Thompson
 
 ![](Bear.png)
 

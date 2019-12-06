@@ -12,12 +12,15 @@
 
 
     // Connect to the remote database
-    function remote_connect() {
-        // Set up .gitignore to prevent this file in git repo
-        require_once 'secret_settings.php';
+        function remote_connect() {
 
-        $db_connect = "mysql:host=$host:$port;dbname=$dbname";
+        $port = '3306';
+        $dbname = 'davidtw0_350';
+        $db_connect = "mysql:host=localhost:$port;dbname=$dbname";
+        $username = 'davidtw0';
+        $password = 'GolfBoy1898!';
         return db_connect($db_connect, $username, $password);
+
     }
 
 

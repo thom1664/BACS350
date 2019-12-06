@@ -25,5 +25,5 @@
     $content = "$intro $add_button $list";
 
     // Show the page
-    echo render_page('UNC BACS 350', "Seaman's Superhero Gallery", $content);
+    echo render_page('UNC BACS 350', "Thompson's Superhero Gallery", $content);
 ?>

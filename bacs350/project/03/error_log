@@ -1,0 +1,8 @@
+[21-Sep-2019 21:32:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_card() in /home2/davidtw0/public_html/bacs350/project/03/index.php:59
+Stack trace:
+#0 {main}
+  thrown in /home2/davidtw0/public_html/bacs350/project/03/index.php on line 59
+[21-Sep-2019 21:32:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_card() in /home2/davidtw0/public_html/bacs350/project/03/index.php:59
+Stack trace:
+#0 {main}
+  thrown in /home2/davidtw0/public_html/bacs350/project/03/index.php on line 59

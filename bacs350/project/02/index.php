@@ -4,7 +4,7 @@
         Create page content with a template.
     */
 
-    $site_title = "Mark Seaman";
+    $site_title = "David Thompson";
     
     $page_title = 'BACS 350 Code Workshop';
 

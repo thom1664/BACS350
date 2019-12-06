@@ -1,48 +1,38 @@
 <?php
-
     /*
         Create page content by rendering a template.
     */
-
-    $site_title = 'UNC BACS 350';
+    $site_title = 'BACS 350';
     
-    $page_title = "The David's Brain";
+    $page_title = "David's Brain";
     
     $content = '
-        <p>
-            <a href="/">BACS 350 WordPress Blog</a>
-        </p>
+       
         <p> 
-            This page is the beginning of an ongoing project in BACS 350.
+            My Class Assignments:
         </p>
-        <p> 
-            It is a custom information manager.
-        </p>
-        <p> 
-            Different rooms within this PHP app will contain different types of info.
-        </p>
-        <p>
-            The source code is available at <a href="https://github.com/Mark-Seaman/UNC-BACS350-Demo/tree/master/bacs350">BACS 350 Source Code</a>.
-        </p>
+ 
         
-        <ul>
-            <li>
-                <a href="team.php">Project Team</a>
-            </li>
-            <li>
-                <a href="demo">Code Demos</a>
-            </li>
-            <li>
-                <a href="pattern">Design Patterns</a>
-            </li>
-            <li>
-                <a href="project">Projects</a>
-            </li>
-        </ul>
+              <h2>  <a href="https://shrinking-world.com/unc/bacs350">Class website</a> </h2>
+            
+            
+               <h2> <a href="project">Projects</a> </h2>
+       
+            
+               <h2> <a target="https://github.com/thom1664/UNC-BACS350-Demo" href="https://github.com/thom1664/UNC-BACS350-Demo" >My Repository </a> </h2>
+        
+           
+              <h2>  <a href="pattern">Design Patterns</a> </h2>
+          
+            
+          
+               <h2> <a href="skills">Skills</a> </h2>
+          
+             
+      
+        
     ';
-
     include 'views.php';
     
     echo render_page($site_title, $page_title, $content);
-
 ?>

@@ -4,15 +4,15 @@ body {
 
 
 h1 {
-    color: #0E3D65;
+    color: #65ff00;
 }
 
 h2 {
-    color: #F6B018;
+    color: #9a00ff;
 }
 
 hr {
-    border: 1px solid #F6B018;
+    border: 1px solid #7f00ff;
     width: 80%;
     margin: 30px auto;
 }
@@ -22,7 +22,7 @@ img {
 }
 
 pre {
-    border: 1px solid #F6B018;
+    border: 1px solid #00ff00;
     box-shadow: 2px 2px 5px grey;
     padding: 1em;
     margin: 2em;
@@ -30,12 +30,12 @@ pre {
 
 .card {
     margin: 20px;
-    border: 1px solid #0E3D65;
+    border: 1px solid #80ff00;
 }
 
 .card-header {
     padding: 10px;
     font-weight: bold;
     color: white;
-    background-color: #0E3D65;
+    background-color: #80ff00;
 }
