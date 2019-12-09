@@ -19,7 +19,7 @@
                <h2> <a href="project">Projects</a> </h2>
        
             
-               <h2> <a target="https://github.com/thom1664/UNC-BACS350-Demo" href="https://github.com/thom1664/UNC-BACS350-Demo" >My Repository </a> </h2>
+               <h2> <a target="https://github.com/thom1664/UNC-BACS350-Demo" href="https://github.com/thom1664/BACS350" >My Repository </a> </h2>
         
            
               <h2>  <a href="pattern">Design Patterns</a> </h2>
