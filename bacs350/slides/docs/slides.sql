@@ -12,9 +12,9 @@
 
 ## Connection Settings  - PHP Variables 
 
-    $dbname = 'uncobacs_350';
-    $username = 'uncobacs_350';
-    $password = 'BACS_350';
+    $dbname = 'davidtw0_350';
+    $username = 'davidtw0_350';
+    $password = 'GolfBoy1898!';
     $port = '3306';
     $host = "localhost:$port";
 
