@@ -13,7 +13,7 @@
             <a href="/bacs350">Home</a>
         </p>
         <p> 
-            <img src="/bacs350/images/Mark-Seaman-200.jpg" alt="Mark Seaman"></img>
+            <img src="/bacs350/images/tj.jpg" alt="Thug Juice"></img>
         </p>
         
         <h3>Code</h3>
@@ -37,10 +37,10 @@
                 <a href="https://www.unco.edu/canvas/">Canvas</a>
             </li>
             <li>
-                <a href="https://unco-bacs.org">WordPress site</a>
+                <a href="https://davidthompson.site">WordPress site</a>
             </li>
             <li>
-                <a href="https://unco-bacs.org/bacs350">My Home Page</a>
+                <a href="https://davidthompson.site/bacs350">My Home Page</a>
             </li>
             <li>
                 <a href="https://shrinking-world.com/unc/bacs350">Sensei Server</a>
