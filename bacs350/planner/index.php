@@ -51,7 +51,7 @@
 </ol>
 <h3>GitHub Repos</h3>
 <a href="https://github.com/Mark-Seaman/UNC-BACS350-2019-Fall/tree/master/public_html/bacs350"><p>Seaman Repo</p></a>
-<a href="https://github.com/thom1664/UNC-BACS350-2019-Fall"><p>My Repo</p></a>
+<a href="https://github.com/thom1664/UNC-BACS350-Demo"><p>My Repo</p></a>
 
 <h2>Preformatted</h2>
 <pre><code>def function():
