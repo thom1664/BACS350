@@ -12,7 +12,7 @@
 
 ## Connection Settings  - PHP Variables 
 
-    $dbname = 'davidtw0_350';
+    $dbname = 'davidtw0_slides';
     $username = 'davidtw0_350';
     $password = 'GolfBoy1898!';
     $port = '3306';
