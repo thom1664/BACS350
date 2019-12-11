@@ -3,8 +3,8 @@ body {
 }
 
 header {
-    border: 5px solid #F6B018;
-    background-color: #0E3D65;
+    border: 5px solid black;
+    background-color: greenyellow;
     font-family: sans-serif;
     padding: .5em;
 }
@@ -14,11 +14,11 @@ header a {
 }
 
 header a:hover {
-    color: #F6B018;
+    color: lime;
 }
 
 header h1 {
-    color: #F6B018;
+    color: greenyellow;
     border: none;
     padding: 0;
     margin: 20px 0;
@@ -28,7 +28,7 @@ header h1 {
 
 header h2 {
     color: white;
-    background-color: #0E3D65;
+    background-color: lime;
     box-shadow: none;
     text-align: left;
     margin: 0;
